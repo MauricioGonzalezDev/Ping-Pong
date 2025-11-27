@@ -6,6 +6,8 @@ O jogo foi construído dentro do elemento canvas, onde os objetos (bolas, raquet
 O jogador controla a raquete esquerda com o mouse, enquanto a raquete direita utiliza uma lógica automática que tenta acompanhar a bola.
 O placar atualiza automaticamente e a dificuldade aumenta conforme o jogo avança.
 
+🔗 GitHub Pages --> https://mauriciogonzalezdev.github.io/Ping-Pong/
+
 🎯 O que eu aprendi
 1. Manipulação do Canvas
 
